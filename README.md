@@ -16,12 +16,12 @@ Import pandas as pd
 
 ### Load Dataset
 
-After loading the pandas library we loaded the dataset i.e. "CO2 Emission_Canada.csv". The dataset includes the CO2 emission of automobiles in canada. 
+After loading the pandas library we loaded the dataset i.e. "Salaries.csv". The dataset includes the Salaries. 
 
 By using the following command
 
 ```
-dataset = pd.read_csv('CO2-Emissions_Canada.csv')
+dataset = pd.read_csv('C:\\Users\\geetg\\Downloads\\Salaries.csv')
 dataset.head()
 ```
 
