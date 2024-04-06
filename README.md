@@ -35,6 +35,6 @@ Using the above code we get statistical analysis of the dataset which includes i
 
 ## Authors
 
-* **Aman Sharma**
+* **Geet Apoorva Gohil**
 
 
